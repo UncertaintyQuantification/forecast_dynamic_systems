@@ -1,4 +1,4 @@
-# forecast_dynamic_systems
+# forecast_dynamical_systems
 Code for "Probabilistic forecast of nonlinear dynamical systems with uncertainty quantification"
 
 Mengyang Gu, Yizi Lin, Victor Chang Lee, and Diana Y. Qiu (2023)
